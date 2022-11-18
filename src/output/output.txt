@@ -1,0 +1,36 @@
+Variavel: b
+Constante: 4.0
+Operacao: /
+Constante: 2.0
+Operacao: +
+Constante: 3.0
+Calculo: 2.0 + 3.0
+Resultado da soma: 5.0
+Calculo: 4.0 / 5.0
+Resultado da divisao: 0.8
+Id novo inserido: b = 0.8
+Variavel: a
+Variavel: b = 0.8
+Operacao: +
+Variavel: c = 0.0
+Operacao: *
+Constante: 1.0
+Calculo: 0.0 * 1.0
+Resultado da multiplicao: 0.0
+Calculo: 0.8 + 0.0
+Resultado da soma: 0.8
+Id novo inserido: a = 0.8
+Variavel: a = 0.8
+Expressao relacional: = 
+Constante: 1.0
+Resultado Expressao relacional: 0.8 = 1.0 : false
+Variavel: b = 0.8
+Expressao relacional: = 
+Constante: 0.0
+Resultado Expressao relacional: 0.8 = 0.0 : false
+Variavel: a
+Constante: 0.0
+Id atualizado: a = 0.0
+Variavel: b
+Constante: 1.0
+Id atualizado: b = 1.0
